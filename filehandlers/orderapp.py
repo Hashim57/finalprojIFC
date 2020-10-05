@@ -1,10 +1,10 @@
 stock={'Choclate cake':6,
 'apple':0,
-'bread':32,
+'Oranges':32,
 'Apple Juice':15,}
 prices={'Choclate cake': 4,
 'apple':2,
-'Bread':1.5,
+'Oranges':1.5,
 'Apple Juice':3}
 
 def uppercase(x):
